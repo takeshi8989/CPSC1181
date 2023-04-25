@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"lab1","l":"FindDenominations"},{"p":"lab1","l":"FindSmallestValues"},{"p":"lab1","l":"ShoppingReceipt"}];updateSearchResults();
